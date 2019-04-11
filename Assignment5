@@ -1,0 +1,10 @@
+<html>
+<body>
+
+<form action="Assignment5b.php" method="post">
+<input type="submit" name="start" value="Start">
+</form>
+
+
+</body>
+</html>	
